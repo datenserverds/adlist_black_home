@@ -1,0 +1,3 @@
+analytics.softgarden.de
+tracker.softgarden.de
+api-global.netflix.com
