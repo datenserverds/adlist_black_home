@@ -5,3 +5,9 @@ bild.de
 analytics.softgarden.de
 tracker.softgarden.de
 api-global.netflix.com
+ido-ble-lib.cn-hongkong.log.aliyuncs.com
+services.gfe.nvidia.com
+service-public.fr
+self.events.data.microsoft.com
+hubblecontent.osi.office.net
+api.gameanalytics.com
