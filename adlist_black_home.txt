@@ -10,3 +10,5 @@ service-public.fr
 self.events.data.microsoft.com
 hubblecontent.osi.office.net
 api.gameanalytics.com
+winterfeelhotels.com
+www.winterfeelhotels.com
