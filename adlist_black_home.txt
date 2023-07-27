@@ -12,3 +12,4 @@ hubblecontent.osi.office.net
 api.gameanalytics.com
 winterfeelhotels.com
 www.winterfeelhotels.com
+api.gameanalytics.com
