@@ -1,6 +1,7 @@
 # Alle URL'S des Projekts adlist_black_home sind selbst erstellt und nach meiner persönlichen Erfahrung hinzugefügt worden.
 # Bei Fragen, oder Verbesserungen bitte ich um Kontaktierung!
-# Fernererhin habe ich die Adlist wie folgt zusammengeführt: Google.txt, Amazon.txt, Xiaomi.txt, LG.txt
+#
+# Fernerhin habe ich die Adlist wie folgt zusammengeführt: Google.txt, Amazon.txt, Xiaomi.txt, LG.txt
 # 
 analytics.softgarden.de
 tracker.softgarden.de
