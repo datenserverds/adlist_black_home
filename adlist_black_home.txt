@@ -1,7 +1,7 @@
 # Alle URL'S des Projekts adlist_black_home sind selbst erstellt und nach meiner persönlichen Erfahrung hinzugefügt worden.
 # Bei Fragen, oder Verbesserungen bitte ich um Kontaktierung!
 #
-# Fernerhin habe ich die Adlist wie folgt zusammengeführt: Google.txt, Xiaomi.txt, Amazon.txt, LG.txt, HP.txt, Twitch.txt, Ubisoft.txt
+# Fernerhin habe ich die Adlist wie folgt zusammengeführt: Google.txt, Xiaomi.txt, Amazon.txt, LG.txt, HP.txt, Twitch.txt, Ubisoft.txt, Baidu.txt
 # 
 analytics.softgarden.de
 tracker.softgarden.de
@@ -313,3 +313,6 @@ pubads.g.doubleclick.net
 sb.scorecardresearch.com
 lb-lt-rdv-storm.ubisoft.com
 public-ws-ubiservices.ubi.com
+dxp.baidu.com
+hmma.baidu.com
+openrcv.baidu.com
