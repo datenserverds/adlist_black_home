@@ -1,7 +1,7 @@
 # Die URL'S des Projekts adlist_black_home sind teilweise selbst erstellt und von anderen Adlisten, siehe Zeile 4, nach meinen persönlichen Erfahrungen hinzugefügt worden.
 # Bei Fragen, oder Verbesserungen bitte ich um Kontaktierung!
 #
-# Die anderen Adlisten sind wie folgt: Google.txt, Xiaomi.txt, Amazon.txt, LG.txt, HP.txt, Twitch.txt, Ubisoft.txt, Baidu.txt, Win10Telemetry.txt
+# Die anderen Adlisten heißen wie folgt: Google.txt, Xiaomi.txt, Amazon.txt, LG.txt, HP.txt, Twitch.txt, Ubisoft.txt, Baidu.txt, Win10Telemetry.txt
 # 
 analytics.softgarden.de
 tracker.softgarden.de
